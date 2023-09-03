@@ -1,0 +1,64 @@
+baseURL: "https://mer.moe/"
+title: mer.moe
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: This is める
+    subtitle: "これはmeruです"
+    imageUrl: "https://r2.mer.moe/files/c003e0a8-40d5-442c-b566-31d8b204d3b1.png"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: meru
+    buttons:
+      - name: links
+        url: links
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/arisumilkland"
+    - name: discord
+      url: "https://discord.com/users/ui49"
+    - name: misskey
+      url: "https://mer.moe/@m"
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
