@@ -34,13 +34,15 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: This is める
-    subtitle: "これはmeruです"
+    title: めるもえ
     imageUrl: "https://r2.mer.moe/files/c003e0a8-40d5-442c-b566-31d8b204d3b1.png"
     imageWidth: 200
     imageHeight: 200
     imageTitle: meru
     buttons:
+      - name: profile
+        url: profile
+
       - name: links
         url: links
 
@@ -51,6 +53,8 @@ params:
       url: "https://discord.com/users/ui49"
     - name: misskey
       url: "https://mer.moe/@m"
+    - name: keybase
+      url: "https://keybase.io/milkland"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
