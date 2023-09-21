@@ -52,7 +52,7 @@ params:
     - name: discord
       url: "https://discord.com/users/ui49"
     - name: misskey
-      url: "https://mer.moe/@m"
+      url: "https://mi.mer.moe/@m"
     - name: keybase
       url: "https://keybase.io/milkland"
 
