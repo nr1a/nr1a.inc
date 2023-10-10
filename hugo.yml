@@ -55,6 +55,8 @@ params:
       url: "https://mi.mer.moe/@m"
     - name: keybase
       url: "https://keybase.io/milkland"
+    - name: telegram
+      url: "https://t.me/misskeyio"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
