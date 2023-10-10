@@ -12,3 +12,6 @@ author = "milkland"
 * music: techno , jersey
 > https://www.mixcloud.com/sara-arai/ghostclub_techno_01aug2023/
 > https://www.mixcloud.com/M4Tyyyyy/m4tt-ghostweek3-set/
+
+* 世界で一番素晴らしいMisskey Fork（スプーン）を作ってます。
+> https://github.com/arisumilkland/mimermoe
