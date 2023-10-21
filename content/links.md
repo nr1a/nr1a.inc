@@ -26,6 +26,7 @@ singaporeに鯖があります。
 - [ssh.mer.moe](https://ssh.mer.moe) - 名前通りのやつ
 - [s.mer.moe](https://s.mer.moe) - [short.io](https://short.io)
 - [alist.mer.moe](https://alist.mer.moe) - [AList](https://github.com/alist-org/alist) 最強のストレージ？
+- [blog.mer.moe](https://blog.mer.moe/) - しょーもないことばっかりのブログだよ
 
 ## 他人
 - [@melt_adzuki](https://misskey.io/@melt_adzuki) - あずけっさ：フロントの人
@@ -35,3 +36,6 @@ singaporeに鯖があります。
 - [@r_ca](https://62ki.net/@r_ca) - ろむっさ：かわいい
 - [@cyberrex_v2](https://misskey.io/@cyberrex_v2) - さいばせ：さいばれ＝さいばせ
 - [@noya](https://calc.menac.at/@noya) - のやっさ：けもみみ
+- [@scil_t](https://misskey.network/@scil_t) - とるっさ：ねとるか
+- [@nullnyat](https://nemunyaa.nca10.net/@nullnyat) - ぬるっさ：ぬるぬる
+- [@nexryai](https://social.sda1.net/@nexryai) - ねくっさ：〇exryai
