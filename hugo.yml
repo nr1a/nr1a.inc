@@ -46,6 +46,9 @@ params:
       - name: links
         url: links
 
+      - name: blog
+        url: https://blog.mer.moe/
+
   socialIcons:
     - name: github
       url: "https://github.com/arisumilkland"
