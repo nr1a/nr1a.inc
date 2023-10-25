@@ -26,6 +26,7 @@ singaporeに鯖があります。
 - [ssh.mer.moe](https://ssh.mer.moe) - 名前通りのやつ
 - [s.mer.moe](https://s.mer.moe) - [short.io](https://short.io)
 - [alist.mer.moe](https://alist.mer.moe) - [AList](https://github.com/alist-org/alist) 最強のストレージ？
+- [spam.mer.moe](https://spam.mer.moe) - mimermoeの実験鯖
 - [blog.mer.moe](https://blog.mer.moe/) - しょーもないことばっかりのブログだよ
 
 ## 他人
