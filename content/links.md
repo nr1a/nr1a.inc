@@ -12,8 +12,8 @@ draft = false
 ## proxy
 - [proxy.mer.moe](https://proxy.mer.moe) - [Reflect4](https://reflect4.me)
 - [www-proxy.mer.moe](https://www-proxy.mer.moe) - [Reflect4](https://reflect4.me)
-- [pro.mer.moe](https://pro.mer.moe) - [Incognito](https://github.com/amethystnetwork-dev/Incognito)
-- [prox.mer.moe](https://prox.mer.moe) - [NebulaProxy](https://github.com/NebulaServices/Nebula)
+- [pro.mer.moe](https://pro.mer.moe) - ~~[Incognito](https://github.com/amethystnetwork-dev/Incognito)~~ **Closed**
+- [prox.mer.moe](https://prox.mer.moe) - ~~[NebulaProxy](https://github.com/NebulaServices/Nebula)~~ **Closed**
 
 singaporeに鯖があります。
 
