@@ -35,7 +35,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: めるもえ
-    imageUrl: "https://r2.mer.moe/files/c003e0a8-40d5-442c-b566-31d8b204d3b1.png"
+    imageUrl: "https://r2.mer.moe/files/e9d6cdf0-6a1a-475b-baa0-f94ea9271a16.png"
     imageWidth: 200
     imageHeight: 200
     imageTitle: meru
