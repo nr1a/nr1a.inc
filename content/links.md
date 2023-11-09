@@ -28,6 +28,7 @@ singaporeに鯖があります。
 - [alist.mer.moe](https://alist.mer.moe) - [AList](https://github.com/alist-org/alist) 最強のストレージ？
 - [spam.mer.moe](https://spam.mer.moe) - mimermoeの実験鯖
 - [blog.mer.moe](https://blog.mer.moe/) - しょーもないことばっかりのブログだよ
+- [osu.mer.moe](https://osu.mer.moe/) - osuのブラウザ版？？
 
 ## 他人
 - [@melt_adzuki](https://misskey.io/@melt_adzuki) - あずけっさ：フロントの人
