@@ -5,13 +5,40 @@ draft = false
 author = "milkland"
 +++
 
-* cat meow!
-* birthday: 2006/03/03
-* work: security researcher
-* go, c++, asm
-* music: techno , jersey
-> https://www.mixcloud.com/sara-arai/ghostclub_techno_01aug2023/
-> https://www.mixcloud.com/M4Tyyyyy/m4tt-ghostweek3-set/
+```go
+package main
 
-* 世界で一番素晴らしいMisskey Fork（スプーン）を作ってます。
-> https://github.com/arisumilkland/mimermoe
+import (
+    "fmt"
+    "time"
+)
+
+func main() {
+    fmt.Println("Hello, I am arisumilkland/meru.")
+    fmt.Println("I am", time.Now().Year() - 2006, "years old.")
+    fmt.Println("I am a security engineer.")
+
+    fmt.Println("My skills include:")
+    skills := map[string]string{
+        "Go":     "Go programming language",
+        "C++":    "C++ programming language",
+        "Assembly": "Assembly language",
+        "Python":  "Python programming language",
+    }
+    for skill := range skills {
+        fmt.Println("*", skill)
+    }
+
+    fmt.Println("I have the following certifications:")
+    certifications := []string{
+        "ITパスポート (Information Technology Passport)",
+        "情報処理安全確保支援士 (Information Security Assurance Specialist)",
+        "Cisco Certified Network Professional",
+    }
+    for _, certification := range certifications {
+        fmt.Println("*", certification)
+    }
+
+    fmt.Println("I am passionate about finding and fixing security vulnerabilities.")
+}
+```
