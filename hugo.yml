@@ -34,7 +34,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: めるもえ
+    title: 🐈
     imageUrl: "https://r2.mer.moe/files/608d2df6-ba56-42b7-bbc6-4b029a4a25a5.png"
     imageWidth: 200
     imageHeight: 200
