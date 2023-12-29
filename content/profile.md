@@ -14,7 +14,7 @@ import (
 )
 
 func main() {
-    fmt.Println("Hello, I am arisumilkland/meru.")
+    fmt.Println("Hello, I am nr1a/meru.")
     fmt.Println("I am", time.Now().Year() - 2006, "years old.")
     fmt.Println("I am a security engineer.")
 
