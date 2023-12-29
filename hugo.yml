@@ -53,7 +53,7 @@ params:
     - name: github
       url: "https://github.com/nr1a"
     - name: discord
-      url: "https://discord.com/users/ui49"
+      url: "https://discord.com/users/nr1a"
     - name: misskey
       url: "https://mi.mer.moe/@m"
     - name: telegram
