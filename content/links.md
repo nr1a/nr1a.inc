@@ -30,7 +30,7 @@ singaporeに鯖があります。
 - [blog.mer.moe](https://blog.mer.moe/) - しょーもないことばっかりのブログだよ
 - [osu.mer.moe](https://osu.mer.moe/) - osuのブラウザ版？？
 
-## 他人
+## 他人（許可取ってないです）
 - [@melt_adzuki](https://misskey.io/@melt_adzuki) - あずけっさ：フロントの人
 - [@_kokt](https://simkey.net/@_kokt) - こけっさ：なんかの人
 - [@s](https://honi.stesan.dev/@s) - すてっさ：にゃんもしとらんの人
