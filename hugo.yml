@@ -35,29 +35,10 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 🐈
-    imageUrl: "https://r2.mer.moe/files/608d2df6-ba56-42b7-bbc6-4b029a4a25a5.png"
+    imageUrl: "https://r2.mer.moe/files/bb7a84c1-f393-4de8-ad77-56bc6ee1378d.png"
     imageWidth: 200
     imageHeight: 200
     imageTitle: meru
-    buttons:
-      - name: profile
-        url: profile
-
-      - name: links
-        url: links
-
-      - name: blog
-        url: https://blog.mer.moe/
-
-  socialIcons:
-    - name: github
-      url: "https://github.com/nr1a"
-    - name: discord
-      url: "https://discord.com/users/nr1a"
-    - name: misskey
-      url: "https://mi.mer.moe/@m"
-    - name: telegram
-      url: "https://t.me/misskeyio"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
