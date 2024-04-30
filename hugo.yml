@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: 🥞
-    imageUrl: "https://0.gravatar.com/avatar/7064454a2db50710594b4b549ff280ebd5a3386d6dd5751386d579caba00497f?size=256"
+    imageUrl: "https://r2.nr1a.inc/icon.png"
     imageWidth: 200
     imageHeight: 200
 
