@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: 🥞
-    imageUrl: "https://r2.nr1a.inc/icon.png"
+    imageUrl: "https://r2.nr1a.inc/IMG_4720_esrgan_anime_4x.png"
     imageWidth: 200
     imageHeight: 200
 
