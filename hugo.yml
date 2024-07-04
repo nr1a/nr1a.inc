@@ -15,7 +15,7 @@ params:
 
   profileMode:
     enabled: true
-    title: 🥞
+    title: 
     imageUrl: "https://r2.nr1a.inc/%E2%99%A1_cugan_noise3_4x_i1.00.png"
     imageWidth: 200
     imageHeight: 200
