@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     title: 🥞
-    imageUrl: "https://r2.nr1a.inc/IMG_4720_esrgan_anime_4x.png"
+    imageUrl: "https://r2.nr1a.inc/%E2%99%A1_cugan_noise3_4x_i1.00.png"
     imageWidth: 200
     imageHeight: 200
 
@@ -24,7 +24,7 @@ params:
     - name: github
       url: https://github.com/nr1a
     - name: twitter
-      url: https://twitter.com/ri4zn
+      url: https://twitter.com/qrn1s
     - name: discord
       url: https://discord.com/users/830062402439479376
     - name: vrchat
